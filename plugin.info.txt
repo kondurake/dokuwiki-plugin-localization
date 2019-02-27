@@ -1,0 +1,7 @@
+base   localization
+author kondurake
+email  kvp@live.com
+date   2019-02-27
+name   Localization Plugin
+desc   Translate and define individual settings for each language separately
+url    https://github.com/kondurake/dokuwiki-plugin-localization
